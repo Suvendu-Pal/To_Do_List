@@ -35,5 +35,4 @@ Plaintext
 ├── index.js       # Core logic for task handling
 
 └── images/
-
-  └── background.png  # Background asset (referenced in CSS)
+   └── background.png  # Background asset (referenced in CSS)
