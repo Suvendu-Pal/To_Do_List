@@ -3,15 +3,15 @@ A sleek, minimalist, and fully functional To-Do List web application. This proje
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>✨ Features</h2>
-Dynamic Task Management: Add tasks instantly to the list without page reloads.
+**Dynamic Task Management:** Add tasks instantly to the list without page reloads.
 
-Interactive UI: Includes a dedicated "DELETE" function for each task to manage your list effectively.
+**Interactive UI:** Includes a dedicated "DELETE" function for each task to manage your list effectively.
 
-Glassmorphism Design: Features a modern aesthetic with backdrop-filter blur effects, semi-transparent backgrounds, and a clean layout.
+**Glassmorphism Design:** Features a modern aesthetic with backdrop-filter blur effects, semi-transparent backgrounds, and a clean layout.
 
-Responsive Styling: Uses Flexbox to ensure the card remains centered and visually appealing across different screen sizes.
+**Responsive Styling:** Uses Flexbox to ensure the card remains centered and visually appealing across different screen sizes.
 
-Clean Codebase: Organized into separate files for structure (index.html), styling (style.css), and logic (index.js).
+**Clean Codebase:** Organized into separate files for structure (index.html), styling (style.css), and logic (index.js).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -42,19 +42,19 @@ Plaintext
 <h2>⚙️ Installation & Usage</h2>
 <h4>Clone the repository:</h4>
 
-Bash
+**Bash**
 
 git clone https://github.com/Suvendu-Pal/To_DO_List.git
 
 <h4>Navigate to the folder:</h4>
 
-Bash
+**Bash**
 
 cd To_Do_List
 
 <h4>Setup Assets:</h4>
 
-<h4>Create an images folder.</h4>
+Create an images folder.
 
 Place a background image named background.png inside it to match the CSS configuration.
 
