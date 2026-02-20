@@ -16,8 +16,8 @@ Clean Codebase: Organized into separate files for structure (index.html), stylin
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>🛠️ Tech Stack</h2>
-* HTML5: Semantic structure for the application.
+*  HTML5: Semantic structure for the application.
 
-* CSS3: Custom styling including CSS variables, Flexbox, and Glassmorphism effects.
+*  CSS3: Custom styling including CSS variables, Flexbox, and Glassmorphism effects.
 
-* JavaScript (ES6+): DOM manipulation and event-driven logic.
+*  JavaScript (ES6+): DOM manipulation and event-driven logic.
