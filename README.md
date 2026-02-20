@@ -62,11 +62,11 @@ cd To_Do_List
 
 <h2>💡 How It Works</h2>
 
-**Adding Tasks:** The script listens for a click on the #add-task-btn. It captures the value from the input field, creates a new div with the class .todo-container, and appends it to the tasks container.
+* **Adding Tasks:** The script listens for a click on the #add-task-btn. It captures the value from the input field, creates a new div with the class .todo-container, and appends it to the tasks container.
 
-**Deleting Tasks:** Every new task is generated with a dedicated delete-button. An event listener is attached to each button specifically to remove its parent task wrapper from the DOM.
+* **Deleting Tasks:** Every new task is generated with a dedicated delete-button. An event listener is attached to each button specifically to remove its parent task wrapper from the DOM.
 
-**Visuals:** The CSS applies a backdrop-filter: blur(10px) and a rgba(255, 255, 255, 0.1) background to create the "glass" effect on the main card.
+* **Visuals:** The CSS applies a backdrop-filter: blur(10px) and a rgba(255, 255, 255, 0.1) background to create the "glass" effect on the main card.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
