@@ -73,6 +73,6 @@ cd To_Do_List
 <h2>👤 Author</h2>
 Suvendu Pal
 
-GitHub: @Suvendu-Pal
+GitHub: https://github.com/Suvendu-Pal
 
-LinkedIn: Suvendu Pal
+LinkedIn: https://www.linkedin.com/in/suvendu-pal/
