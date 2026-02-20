@@ -40,20 +40,24 @@ Plaintext
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>⚙️ Installation & Usage</h2>
-##Clone the repository:
+<h4>Clone the repository:</h4>
 
-**Bash
+Bash
+
 git clone https://github.com/Suvendu-Pal/To_DO_List.git
-##Navigate to the folder:
 
-**Bash
+<h4>Navigate to the folder:</h4>
+
+Bash
+
 cd To_Do_List
-##Setup Assets:
 
-Create an images folder.
+<h4>Setup Assets:</h4>
+
+<h4>Create an images folder.</h4>
 
 Place a background image named background.png inside it to match the CSS configuration.
 
-Run the App:
+<h4>Run the App:</h4>
 
 Simply open index.html in any modern web browser.
