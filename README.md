@@ -22,3 +22,14 @@ Clean Codebase: Organized into separate files for structure (index.html), stylin
 *   CSS3: Custom styling including CSS variables, Flexbox, and Glassmorphism effects.
    
 *  JavaScript (ES6+): DOM manipulation and event-driven logic.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>📂 File Structure</h2>
+Plaintext
+.
+├── index.html          # Application structure
+├── style.css           # Modern Glassmorphism styles
+├── index.js            # Core logic for task handling
+└── images/
+    └── background.png  # Background asset (referenced in CSS)
