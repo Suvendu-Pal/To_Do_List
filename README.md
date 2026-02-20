@@ -13,7 +13,7 @@ Responsive Styling: Uses Flexbox to ensure the card remains centered and visuall
 
 Clean Codebase: Organized into separate files for structure (index.html), styling (style.css), and logic (index.js).
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -23,7 +23,7 @@ Clean Codebase: Organized into separate files for structure (index.html), stylin
    
 *  JavaScript (ES6+): DOM manipulation and event-driven logic.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>📂 File Structure</h2>
 Plaintext
@@ -36,3 +36,24 @@ Plaintext
 
 └── images/
    └── background.png  # Background asset (referenced in CSS)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>⚙️ Installation & Usage</h2>
+##Clone the repository:
+
+**Bash
+git clone https://github.com/Suvendu-Pal/To_DO_List.git
+##Navigate to the folder:
+
+**Bash
+cd To_Do_List
+##Setup Assets:
+
+Create an images folder.
+
+Place a background image named background.png inside it to match the CSS configuration.
+
+Run the App:
+
+Simply open index.html in any modern web browser.
