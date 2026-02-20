@@ -72,7 +72,7 @@ cd To_Do_List
 
 <h2>👤 Author</h2>
 
-Suvendu Pal
+<h3>**Suvendu Pal**</h3>
 
 💼 Aspiring Frontend Developer
 
