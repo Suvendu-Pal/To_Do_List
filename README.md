@@ -79,3 +79,17 @@ cd To_Do_List
 GitHub: https://github.com/Suvendu-Pal
 
 LinkedIn: https://www.linkedin.com/in/suvendu-pal/
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>⭐ Support</h2>
+
+If you like this project:
+
+🌟 Star the repo
+
+🍴 Fork it
+
+🛠️ Contribute
+
+Since, I am in your 3rd year of BCA, I recommend hosting this project for free on GitHub Pages.
