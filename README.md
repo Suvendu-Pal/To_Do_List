@@ -35,6 +35,7 @@ A sleek, minimalist, and fully functional To-Do List web application. This proje
 ├── index.js       # Core logic for task handling
 
 └── images/
+
    └── background.png  # Background asset (referenced in CSS)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
