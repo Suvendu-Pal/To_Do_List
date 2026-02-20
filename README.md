@@ -27,8 +27,7 @@ A sleek, minimalist, and fully functional To-Do List web application. This proje
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>📂 File Structure</h2>
-Plaintext
-.
+
 ├── index.html        # Application structure
 
 ├── style.css        # Modern Glassmorphism styles
