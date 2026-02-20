@@ -3,6 +3,7 @@ A sleek, minimalist, and fully functional To-Do List web application. This proje
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>✨ Features</h2>
+
 **Dynamic Task Management:** Add tasks instantly to the list without page reloads.
 
 **Interactive UI:** Includes a dedicated "DELETE" function for each task to manage your list effectively.
@@ -42,22 +43,18 @@ Plaintext
 <h2>⚙️ Installation & Usage</h2>
 <h4>Clone the repository:</h4>
 
-**Bash**
-
 git clone https://github.com/Suvendu-Pal/To_DO_List.git
 
 <h4>Navigate to the folder:</h4>
-
-**Bash**
 
 cd To_Do_List
 
 <h4>Setup Assets:</h4>
 
-Create an images folder.
+* Create an images folder.
 
-Place a background image named background.png inside it to match the CSS configuration.
+* Place a background image named background.png inside it to match the CSS configuration.
 
 <h4>Run the App:</h4>
 
-Simply open index.html in any modern web browser.
+* Simply open index.html in any modern web browser.
